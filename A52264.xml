@@ -618,7 +618,10 @@ two Circles BCDE, and FGHI, theſe
 Circles are both of them drawn upon the
 ſame center A, and therefore are parallel
 one to the other.</p>
-                     <figure/>
+                     <p>
+                        <pb n="8" facs="tcp:60119:9"/>
+                        <figure/>
+                     </p>
                      <p n="16">16. An <hi>Angle</hi> is the meeting of two lines
 in any ſort, ſo as they both make not one
 line; as the two lines AB and AC incline
@@ -672,7 +675,10 @@ meaſure of the obtuſe angle BED. But of
 their meaſure there can be no certain know<g ref="char:EOLhyphen"/>ledge,
 unleſſe the quantity of thoſe arches
 be expreſt in numbers.</p>
-                     <figure/>
+                     <p>
+                        <pb n="11" facs="tcp:60119:10"/>
+                        <figure/>
+                     </p>
                      <p n="22">22. Every Circle therefore is ſuppoſed
 to be divided into 360 equall parts, called
 Degrees, and every Degree into 60 Minutes,
@@ -751,7 +757,10 @@ BC ſubtendeth the angle BAC: the great<g ref="char:EOLhyphen"/>er
 ſides ſubtend the greater angles, the leſ<g ref="char:EOLhyphen"/>ſer
 ſides leſſer angles, and equal ſides equal
 angles.</p>
-                     <figure/>
+                     <p>
+                        <pb n="14" facs="tcp:60119:12"/>
+                        <figure/>
+                     </p>
                      <p n="4">4. Of Triangles there are diverſe ſorts;
 as,</p>
                      <p n="1">1. There are Equilateral Triangles, ha<g ref="char:EOLhyphen"/>ving
@@ -814,7 +823,10 @@ equal to the right angled figure made of the
 extreams AB and BC, that is, to the right
 angled figure ABCD; for as twice 9 is 18,
 ſo likewiſe three times is 18.</p>
-                     <figure/>
+                     <p>
+                        <pb n="17" facs="tcp:60119:13" rendition="simple:additions"/>
+                        <figure/>
+                     </p>
                      <p n="11">11. Theor. <hi>If three right lines be propor<g ref="char:EOLhyphen"/>tionall,
 the Square made of the mean is
 equal to the rightangled figure made of
@@ -963,7 +975,10 @@ DG and HE are equal, for ſince the
 whole lines DB and GF are equall, DE
 and GH being one fourth part thereof,
 muſt needs be equal alſo.</p>
-                     <figure/>
+                     <p>
+                        <pb n="23" facs="tcp:60119:16" rendition="simple:additions"/>
+                        <figure/>
+                     </p>
                      <p n="16">16 Theor. <hi>Equiangled Triangles have
 their ſides about the equall angles pro<g ref="char:EOLhyphen"/>portionall,
 and contrarily.</hi>
@@ -1024,7 +1039,19 @@ together, are equal to the ſquare of the
                      <p>
                         <hi>Demonſtration.</hi>
                      </p>
-                     <figure/>
+                     <p>Let ABC be a triangle, right angled at
+B, and let the ſide BC be 3 foot, the ſide
+AB 4 foot, and the ſide AC 5 foot. Let e<g ref="char:EOLhyphen"/>very
+ſide be ſquared ſeverally, ſo ſhall you
+finde the ſquare of the ſide AC to contein
+as much as the ſquares of the ſides AB and
+<pb n="26" facs="tcp:60119:18" rendition="simple:additions"/>
+                        <figure/>
+BC added together. For, the ſquare of the
+ſide AB is 16, the ſquare of BC is 9, which
+added together make 25, which is equall to
+the ſquare of the ſide AC, which was to be
+demonſtrated.</p>
                      <p n="18">18. Theor. <hi>The three angles of a right li<g ref="char:EOLhyphen"/>ned
 Triangle are equal to two right an<g ref="char:EOLhyphen"/>gles.</hi>
                      </p>
@@ -1298,13 +1325,56 @@ which was to be proved.</p>
 equal ſides, hath his angles at the baſe equal
 the one to the other, and contrarily.</hi>
                      </p>
-                     <figure/>
+                     <p>Let the ſides AB and AC in the triangle
+ABC be equal and produced at pleaſure,
+ſo that AD may be equal to AE then draw
+the lines CD and BE, foraſmuch as the two
+ſides AD and AC in the triangle DAC
+are equal to the two ſides AE and AB in
+<figure/>
+the triangle ABE, and the angle at A com<g ref="char:EOLhyphen"/>mon
+to both, the baſe BE ſhall be equal to
+the baſe CD, and the angle at D to the an<g ref="char:EOLhyphen"/>gle
+at E, and the angle ABE to the angle
+ACD by the laſt aforegoing, therfore alſo
+<pb n="38" facs="tcp:60119:24" rendition="simple:additions"/>
+the angles DCB and EBC are equal, now
+if you take theſe equal angles from the
+equal angles ABE and ACD the angles
+remaining ABC and ACB muſt needs be
+equal, which was to be proved.</p>
                      <p n="25">25. Theor. <hi>If the Radius of a circle be di<g ref="char:EOLhyphen"/>vided,
 in extreame and mean proportion,
 the greater ſegment ſhall be the ſide of a
 Decangle, in the ſame circle.</hi>
                      </p>
-                     <figure/>
+                     <p>In the ſemicircle AGC let AG be the
+ſide of a Decangle DG or DA the Radius,
+then becauſe the arch AG is the tenth part
+of a circle it is alſo the fift part of a ſemicir<g ref="char:EOLhyphen"/>cle,
+and the arch CG, which is four times as
+much as the arch AG is the double meaſure
+of the angle DAG, and becauſe the ſides
+AD and DG are equal, therefore the an<g ref="char:EOLhyphen"/>gles
+AGD and DAG are equal by the laſt
+aforegoing, therefore either of the angles
+<figure/>
+AGD or GAD is double to the angle ADG,
+now then if you divide the angle AGD in<g ref="char:EOLhyphen"/>to
+two equal parts by the right line EG the
+<pb n="39" facs="tcp:60119:24"/>
+angles EGD or EGA ſhall either of them
+be equal to the angle ADG and therefore
+ED &amp; EG are equal by the laſt aforegoing,
+&amp; the triangles AGD &amp; AEG are equian<g ref="char:EOLhyphen"/>gled
+becauſe of their common angle DAG
+and there equal angles AGE and ADG,
+as before, and EG which is equal to DE is
+equal to AG, therefore as AD to AG (or
+ED) ſo is AG to AE, and the Radius AD
+is divided in extreame and meane propor<g ref="char:EOLhyphen"/>tion
+by the 14<hi>th</hi> hereof, and ED the greater
+ſegment is the ſide of a decangle.</p>
                      <p>Theſe foundations being laid we will
 proceed to the making of the tables, where<g ref="char:EOLhyphen"/>by
 any triangle may be meaſured.</p>
@@ -1525,7 +1595,33 @@ which how great or little ſoever is equall
 to the ſide of a ſix-angled figure inſcribed
 in a circle, that is, to the ſubtenſe of 60 de<g ref="char:EOLhyphen"/>grees,
 the which is thus demonſtrated.</p>
-                     <figure/>
+                     <p>Let BC be the ſide of a ſix angled fi<g ref="char:EOLhyphen"/>gure
+inſcribed in a circle, then becauſe the
+arch BC is the ſixt part of a circle, and
+that every circle is ſuppooſed to be divided
+into 360 parts the ſide BC muſt needs be
+60 parts, becauſe ſix times 60 makes 360,
+and the angle BAC is 60 parts alſo, by the
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the firſt. And the angles ABC and
+<pb n="47" facs="tcp:60119:28" rendition="simple:additions"/>
+                        <figure/>
+ACB are 120, by the 18 of the ſecond,
+and are alſo equal, becauſe the ſides AC
+and AB which are oppoſite unto them are
+equal, for they are two Radii, by the
+work, and therefore either of the angles
+are 60 parts, and conſequently the whole
+triangle is equiangled, and the whole tri<g ref="char:EOLhyphen"/>angle
+being equiangled, and the ſides AB
+and BC being Radii, the ſide <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>C muſt
+be Radius alſo. Therefore the Radius or
+whole Sine is equal to the ſide of a ſix an<g ref="char:EOLhyphen"/>gled
+figure inſcribed in a circle, as was to
+be proved.</p>
                      <p>Out of the Radius or ſubtenſe of 60 de<g ref="char:EOLhyphen"/>grees
 the ſine of 30 degrees is eaſily found,
 <pb n="48" facs="tcp:60119:29"/>
@@ -1671,7 +1767,30 @@ degrees.</p>
                      <p>
                         <hi>The reaſon of the rule.</hi>
                      </p>
-                     <figure/>
+                     <p>In the following Diagram, let EB repre<g ref="char:EOLhyphen"/>ſent
+the Radius of a circle on which draw
+<figure/>
+the ſquare EG, then is GB equal to EB,
+<pb n="53" facs="tcp:60119:31"/>
+which being biſected in the point H draw the
+line HE, then continue the ſegment HB to
+K, making HK equal to HE and upon the
+line KB make the ſquare BD, then the Ra<g ref="char:EOLhyphen"/>dius
+EB is divided into extreame and meane
+proportion by the 14<hi>th</hi> of the ſecond, and the
+greater ſegment MB is the ſide of a decangle
+by the 25 of the ſecond, and KB is equal
+thereunto; now then becauſe the Radius EB
+and the half Radius HB with the right
+line HE, do make the right angled triangle
+EBH right angled at B, by the 21<hi>th.</hi> of the
+firſt, and therefore the ſquares of EB and
+BH are together equal to the ſquare of HE
+or HK, by the 17<hi>th.</hi> of the ſecond, now if
+from the ſquare root of the ſquare of HE,
+that is from the ſide HE or HK you deduct
+the ſide HB, the remainer is KB the ſide of
+a decangle.</p>
                      <p>
                         <hi>For example.</hi>
                      </p>
@@ -1794,7 +1913,30 @@ both the arches given.</p>
                         <pb n="58" facs="tcp:60119:34"/>
                         <hi>The reaſon of the Rule.</hi>
                      </p>
-                     <figure/>
+                     <p>Let the ſubtenſes of the given arches be
+the right lines AE and AI, and let the ſub<g ref="char:EOLhyphen"/>tenſe
+of both thoſe arches be the right line
+EI, let the diameter AO be drawn to the
+<figure/>
+very point in which the ſubtenſes of the
+given arches do concurre, to wit, in the
+point A. Then draw the right lines EO and
+IO, which with the diameter and the
+ſubtenſes given, do make the two right an<g ref="char:EOLhyphen"/>gled
+Triangles AEO and AIO, right an<g ref="char:EOLhyphen"/>gled
+at E and I (by the 19<hi>th.</hi> of the ſecond.)
+<pb n="59" facs="tcp:60119:34"/>
+And therefore the ſides EO and IO are
+given by the 23 hereof, and conſequently
+the right angled figures made of AE and
+IO, AI and EO, to which the right angled
+figure made of the diagonals EI and AO
+is equal by the 20<hi>th.</hi> of the ſecond, and
+therefore the ſumme of the right angled fi<g ref="char:EOLhyphen"/>gures
+made of AE and IO, and alſo of AI
+and EO, being divided by the diameter
+AO, the quotient is EI, the ſubtenſe of
+both the arches given.</p>
                      <p>
                         <hi>Example.</hi>
                      </p>
@@ -1853,7 +1995,21 @@ EI.</p>
                      <p>
                         <hi>Example,</hi>
                      </p>
-                     <figure/>
+                     <p>Let the right angled figure AI and
+<figure/>
+EO be the ſame with the former, <hi>viz,</hi>
+2449489742783177659465844164315. And
+the right angled figure of AE and IO
+1414213562373059. 00000.00000.00000.
+Their difference ſhall be 10352761804100|82659465844164315,
+which divided by the
+diameter AO, leaveth in the quotient
+<pb n="62" facs="tcp:60119:36"/>
+517638090205041, for the ſubtenſe of the
+difference of the arches of 60 and 90, that
+is, for the ſubtenſe of 30 degrees. The
+half whereof, <hi>viz.</hi> 258819045102520, is
+the ſine of 15 degrees</p>
                      <p n="29">29. The ſine of an arch leſſe then a
 Quadrant being given, together with the
 ſine of half his complement, to finde the
@@ -1872,7 +2028,36 @@ to the ſine of the half complement
                      <p>
                         <hi>The reaſon of the Rule.</hi>
                      </p>
-                     <figure/>
+                     <p>Let EAI be a quadrant, and in that let
+the arches IS, SV, VE be equal, then
+let the laſt arch VE be biſected in Y, and
+let the Quadrant be made into a Semicir<g ref="char:EOLhyphen"/>cle,
+and the arches OC, CL, LE, equall
+<pb n="63" facs="tcp:60119:36"/>
+to the former: then ſhall the right lines
+LV and CS be parallels to the diameter
+OAI, and biſected by the Radius AE, and
+becauſe YV is half of the arch EV, it is
+alſo the half of the arch VS or SI, and
+equal to the arches IB, CG, or GO, Then
+let there be drawn the right lines EV, LS,
+CI, and GB, perpendicular to the Radius
+AY, and biſected by it. I ſay, then that the
+<figure/>
+right angled triangles IAM, CPM, and
+SPN are equiangled, for the arches CO,
+CL, and SI are equal, by the work, and,
+the double meaſures of the angles AIM,
+PCM, and PSN, and the angles AMI
+CMP, and PNS are equall, that is, right
+angles, becauſe the right line AY doth fall
+perpendicularly upon the parallel right
+<pb n="64" facs="tcp:60119:37"/>
+lines LS and CI, and now where two an<g ref="char:EOLhyphen"/>gles
+are equal, there the third is equall, by
+the 18<hi>th.</hi> of the ſecond; and conſequently
+the ſides of the triangles IAM, CPM, and
+SPN are proportional.</p>
                      <figure/>
                      <p>That is, as AI, is to AM: ſo is CP, to
 PM; and ſo is PS, to PN, and then by
@@ -1927,7 +2112,64 @@ the cube of the ſubtenſe given, what remain<g ref="char:EOLhyphen"/>eth
                      <p>
                         <hi>The reaſon of the Rule.</hi>
                      </p>
-                     <figure/>
+                     <p>If in a circumference you diſtinguiſh three
+equall parts from O the end of the Diame<g ref="char:EOLhyphen"/>ter,
+with the letters ABC and draw the ſub<g ref="char:EOLhyphen"/>tenſes
+as in the ſcheame, making MX equal
+to MB<gap reason="illegible" resp="#TECH" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, drawing alſo AX and AB and the
+diameter NRA, then ſhall the triangles
+BMX and ARO be equicrurall all becauſe RA
+and RO are two Radii, and MB and MX
+are equal by the worke, and the angles
+BMX and ARO are equal by the 19<hi>th</hi> of
+the ſecond; and therefore the triangles
+BMX and ARO are equiangled by the 23
+of the ſecond, and becauſe the ſides MB and
+MX are equal and AM common to both the
+triangles AMB and AMX, therefore AX is
+equal to AB by the 24<hi>th</hi> of the ſecond, and
+AB is equal to AO by the work, and there<g ref="char:EOLhyphen"/>fore
+AX is alſo equal to A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g> and the angles
+AXO and AOX are equal by the 24<hi>th</hi> of
+<pb n="67" facs="tcp:60119:38"/>
+the ſecond, and the riangles AOX and
+ARO are like, becauſe the angle AOR is
+common to both &amp; ther<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e as AR to AO, ſo
+is AO to OX, that is <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> O ſquare divided by
+Radius, is equal to OX and OS is equal
+to AO and OX to AS, becauſe the tr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>angles
+AOX and AOS are equiangled, the an<g ref="char:EOLhyphen"/>gles
+SAO and AOX are equal becauſe
+they are the ſame with two of the angles in
+the equiangled triangle ARO; and the an<g ref="char:EOLhyphen"/>gles
+AOS and XAO are equal, becauſe
+<figure/>
+they are meaſured by equal arches, for
+AC the double of AO, is the double mea<g ref="char:EOLhyphen"/>ſure
+of the angle AOS, by the nineteenth
+of the ſecond, and AO is the meaſure of
+<pb n="68" facs="tcp:60119:39"/>
+ARO equal to XAO, becauſe the trian<g ref="char:EOLhyphen"/>gles
+ARO and AOX are like. And then
+becauſe AS is equal to OX, SN muſt needs
+be equal to MX or MB, and the right ang<g ref="char:EOLhyphen"/>led
+figure made of OS and SC, is equal
+to the right angled figure made of AS and
+SN, by the 21<hi>th.</hi> of the ſecond, that is, as
+OS, to NS, ſo is SA to SC.</p>
                      <figure/>
                      <p>Now then we have already proved, that
 the ſquare of AO divided by Radius, is e<g ref="char:EOLhyphen"/>qual
@@ -2228,10 +2470,13 @@ forward, till you have finiſhed your di<g ref="char:EOLhyphen"/>viſion,
 and therefore this ſecond manner
 of working being well obſerved, there can
 be no difficulty in that which followes.</p>
-                     <figure>
-                        <pb n="80" facs="tcp:60119:45"/>
-                        <pb n="81" facs="tcp:60119:45"/>
-                     </figure>
+                     <p>
+                        <pb n="79" facs="tcp:60119:44"/>
+                        <figure>
+                           <pb n="80" facs="tcp:60119:45"/>
+                           <pb n="81" facs="tcp:60119:45"/>
+                        </figure>
+                     </p>
                      <p n="32">
                         <pb n="82" facs="tcp:60119:46" rendition="simple:additions"/>
 32. The ſubtenſe of an arch being given
@@ -2252,7 +2497,34 @@ or the arch 5 times as much.</p>
                      <p>
                         <hi>The reaſon of the Rule.</hi>
                      </p>
-                     <figure/>
+                     <p>In the annexed Diagram, twice ET more
+CB is equall to OE, becauſe OE is the
+ſubtenſe of five equall arches, by the work,
+and by letting fall the perpendicular CT,
+the right line OT doth anſwer to three e<g ref="char:EOLhyphen"/>quall
+arches, AO, AB, and BC; and
+therefore ET doth anſwer to the other two:
+now if you deduct the right line CB from
+the right line OT, the remainer muſt be e<g ref="char:EOLhyphen"/>quall
+to ET, and ſo it followes, that 2 ET
++ CB = OE. And the triangles OBM
+and OCT are equiangled, becauſe of their
+equall angles CTO and MBO, which are
+<pb n="83" facs="tcp:60119:46"/>
+both right, and the angles BMO &amp; COT
+are equal, becauſe they are meaſured by
+equal arches; and therefore, as MO is to
+MB: ſo is OC, to TO: that is, as hath
+been ſhewed in the triplication of an an<g ref="char:EOLhyphen"/>gle.
+As twice Radius, is to twice Radi<g ref="char:EOLhyphen"/>us,
+leſſe by the ſquare AO divided by Ra<g ref="char:EOLhyphen"/>dius:
+ſo is thrice Radius ſquare in AO, leſs
+by the cube of AO divided by Radius
+ſquare, to a fourth number repreſented by
+the right line OT, what that number is by
+the rule of proportion may be thus found:
+<figure/>
+                     </p>
                      <p>Multiply the numerator of the fractions
 in the ſecond place by the numerator of
 <pb n="84" facs="tcp:60119:47"/>
@@ -2600,13 +2872,23 @@ thereof, the remainer will be 450.79600.
 may be conveniently made, I conclude,
 that I have found the true quotient, and ſo
 have I wrought twice.</p>
-                     <figure>
-                        <pb n="96" facs="tcp:60119:53"/>
-                        <pb n="97" facs="tcp:60119:53"/>
-                        <pb n="98" facs="tcp:60119:54"/>
-                        <pb n="99" facs="tcp:60119:54"/>
-                        <pb n="100" facs="tcp:60119:55"/>
-                     </figure>
+                     <p>The work following muſt be done in all
+things like as this ſecond, onely remem<g ref="char:EOLhyphen"/>ber
+that as in the triſection of an angle,
+both the figures in the quotient are termed
+<hi>a</hi> in the third operation, the three figures
+found are <hi>a</hi> in the fourth work; and ſo
+forward till your diviſion be finiſhed.
+<figure>
+                           <pb n="96" facs="tcp:60119:53"/>
+                           <pb n="97" facs="tcp:60119:53"/>
+                           <pb n="98" facs="tcp:60119:54"/>
+                           <pb n="99" facs="tcp:60119:54"/>
+                           <pb n="100" facs="tcp:60119:55"/>
+                        </figure>
+
+
+                     </p>
                      <p n="34">
                         <pb n="101" facs="tcp:60119:55" rendition="simple:additions"/>
 34 The Sines of two arches equally di<g ref="char:EOLhyphen"/>ſtant
@@ -2643,7 +2925,50 @@ right line CD or DP.</p>
                      <p>
                         <hi>Demonſtration.</hi>
                      </p>
-                     <figure/>
+                     <p>Becauſe in the triangle GCP, that the
+<pb n="102" facs="tcp:60119:56"/>
+perpendicular GD doth biſect the baſe
+CP, by the propoſition: therefore the ſides
+GC and GP are equall, and the angles
+GCP and GPC are equal, becauſe equal
+ſides ſubtend equal angles: and laſtly, the
+angles CGD and DGP are alſo equal,
+by the ſame reaſon; but the angle CGD
+<figure/>
+is 30 degrees, for that it is equal to the an<g ref="char:EOLhyphen"/>gle
+BAM, becauſe a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> right line drawn
+through two parallel right lines maketh
+the angles oppoſite to one another equall.
+And therefo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e the angle CGP is 60 de<g ref="char:EOLhyphen"/>grees,
+becauſe it is double to the angle
+CGD. And becauſe the angle CGP is <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0
+degrees, therefore the other two angles
+GCP and GPC are 120, by the 18<hi>th.</hi> of
+<pb n="103" facs="tcp:60119:56" rendition="simple:additions"/>
+the ſecond, and theſe two angles are de<g ref="char:EOLhyphen"/>monſtrated
+to be equall; and therefore e<g ref="char:EOLhyphen"/>very
+of them is 60 degrees. And the angle
+CGP is alſo 60 degrees, and therefore the
+triangle CGP is equiangled, but becauſe
+the triangle CGP is equiangled, therefore
+alſo it is equilateral. Moreover, becauſe
+the triangle CGP is equilateral, therefore
+the perpendicular PT biſecteth the baſe
+CG into two equall parts, or elſe it could
+not be perpendicular. Then the ſides CP
+and CG are equall, and therefore alſo
+their bi-ſegments CT and CD are equal:
+which was to be demonſtrated. The Sines
+therefore or whatſoever 60 degrees being
+given, you may finde the Sines of the other
+30 degrees, by Addition or Subſtraction
+onely.</p>
                      <p>
                         <hi>Example.</hi>
                      </p>
@@ -2809,7 +3134,41 @@ line MK.</p>
                         <p>
                            <hi>Demonſtration.</hi>
                         </p>
-                        <figure/>
+                        <p>If you take equall things from equall,
+the remainer ſhall be equall: but the right
+<pb n="108" facs="tcp:60119:60" rendition="simple:additions"/>
+lines <gap reason="illegible" resp="#TECH" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>P and MT are equal; therefore if
+you take the right line KT from both of
+them, the right lines TP and MK remain<g ref="char:EOLhyphen"/>ing
+ſhall be equal; becauſe thoſe things
+that are equal to one and the ſame things
+are alſo equal to one another; but the
+right lines KP and MT are equal to the
+<figure/>
+ſame right line KA, and therefore they
+are equall to one another. The right line
+KP is equal to the right line KA, becauſe
+he angles KAP and KPA are equal. And
+<pb n="109" facs="tcp:60119:60"/>
+that the angles KAP and KPA are equal
+to one another, thus appeareth; for that
+they are equal to one and the ſame an<g ref="char:EOLhyphen"/>gle
+DAC. The angle KPA is equal
+to the angle DAC, becauſe the right
+line PA is drawn through the parallel
+lines MP and AC: and the angle
+KAP is equal to the angle DAC, by
+the conſtruction, for the arch BL is to
+be made equal to the arch SD, being the
+difference of the arches DC and BD.
+Therefore the angle BAL or BAK is the
+difference betwixt the angles BAP and
+DAC. Seeing therefore that the angles
+KAP and KPA are equal to the ſame an<g ref="char:EOLhyphen"/>gle
+DAC; it followeth neceſſarily, that
+they are equal to one another.</p>
                         <p>Then that the right line MT is equall to
 the right line KA is thus proved; the right
 line MA is equall to the right line KA, by
@@ -4925,7 +5284,10 @@ to a ſine, tangent, or ſecant; and contra<g ref="char:EOLhyphen"/>riwiſe,
 a ſine, tangent, or ſecant hath a
 threefold proportion to Radius, by the ſe<g ref="char:EOLhyphen"/>cond
 Axiome of this Chapter.</p>
-                        <figure/>
+                        <p>
+                           <pb n="159" facs="tcp:60119:87"/>
+                           <figure/>
+                        </p>
                         <p>For<list>
                               <item>As ſine BC, to Rad. AC in the 1. triangle</item>
                               <item>So Rad. BC, to ſecant AC in the 3d. tri.</item>
@@ -5561,7 +5923,10 @@ to A, then is CA the ſumme of the
 the work, CH is the difference of the ſides,
 CF the difference of the ſegments of the
 baſe.</p>
-                        <figure/>
+                        <p>
+                           <pb n="173" facs="tcp:60119:94"/>
+                           <figure/>
+                        </p>
                         <p>Now if you draw the right lines AF and
 HD, the triangles CHD and CAF ſhall
 be equiangled, becauſe of their common
@@ -5608,7 +5973,31 @@ right angled triangles; thus:
                               </row>
                            </table>
                         </p>
-                        <figure/>
+                        <p>Having thus the true and the alternate
+baſe, ſubſtract the leſſer 99 from the great<g ref="char:EOLhyphen"/>er
+189, and there reſts 90, and in the mid<g ref="char:EOLhyphen"/>dle
+of this remainer, that is, at 45 paces,
+let fall the perpendicular AC. Then in
+the right angled triangle ABC, we have
+known the baſe AB, <hi>viz.</hi> the ſumme of the
+alternate baſe B<gap reason="illegible" resp="#TECH" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 99, and the half ſumme
+of GD, that is, the length of GA 45,
+which added together is 144, and the
+<pb n="175" facs="tcp:60119:95"/>
+                           <figure/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="174" facs="tcp:60119:96"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="175" facs="tcp:60119:96"/>
+hypothenuſal BC 156, hence to finde the
+angle at B, by the fifth Caſe of right an<g ref="char:EOLhyphen"/>gled
+Triangles, I ſay.</p>
                         <p>As the the hypothenuſal BC, is to Ra<g ref="char:EOLhyphen"/>dius:
 So is the baſe AB 144, to the ſine of
 the angle at the perpendicular, whoſe com<g ref="char:EOLhyphen"/>plement
@@ -6478,7 +6867,12 @@ of the angle at B, to the ſine of his oppo<g ref="char:EOLhyphen"/>ſite
                         <head type="sub">Two ſides with an angle oppoſite to one of
 them being given, to finde an angle op<g ref="char:EOLhyphen"/>poſite
 to the other.</head>
-                        <figure/>
+                        <p>As in the triangle ABC, let there be gi<g ref="char:EOLhyphen"/>ven
+the ſides BC and AC, with the angle
+at A, to finde the angle at B: I ſay then,
+by the fiſt propoſition of the laſt Chapter:
+<figure/>
+                        </p>
                         <p>As the ſine of BC, to the ſine of his op<g ref="char:EOLhyphen"/>poſite
 angle at A: ſo is the ſine of AC, to
 the ſine of his oppoſite angle B.</p>
@@ -7068,7 +7462,35 @@ then I ſay:
                               </row>
                            </table>
                         </p>
-                        <figure/>
+                        <p>Now becauſe the perpendicular falls
+within the triangle, therefore I ſubſtract the
+angle found ABF 40 degrees 28 minutes,
+from ABC 107 degrees 60 minutes, the
+angle given, and their difference 67 degr.
+32 min. is the angle FBC, the ſecond arch:
+hence to finde the angle ACB, I ſay;
+<pb n="219" facs="tcp:60119:118"/>
+                           <table>
+                              <row>
+                                 <cell>As the ſine of ABF 40.28. <hi>co. ar.</hi>
+                                 </cell>
+                                 <cell>0.189415</cell>
+                              </row>
+                              <row>
+                                 <cell>To the ſine of FBC 67.32.</cell>
+                                 <cell>9.965047</cell>
+                              </row>
+                              <row>
+                                 <cell>So is the co-ſine of BAF 56.44.</cell>
+                                 <cell>9.742576</cell>
+                              </row>
+                              <row>
+                                 <cell>To the co-ſine of ACB 37.92.</cell>
+                                 <cell>9.897038</cell>
+                              </row>
+                           </table>
+                           <figure/>
+                        </p>
                         <p>Let there be given, as before, the two
 angles BAC and ABC, with the ſide be<g ref="char:EOLhyphen"/>tween
 them AB, to finde the angle ACB,
@@ -7946,7 +8368,76 @@ PZS, and the right line OQ biſect the
 lines EV and IV, and the right line AQ
 perpendicular to the right line IV, biſect<g ref="char:EOLhyphen"/>ing
 the ſame in Q, I ſay then.</p>
-                        <figure/>
+                        <p>As the Rectangular figure of the ſines of
+the ſides PR and CK, is to the ſquare of
+<pb n="237" facs="tcp:60119:127" rendition="simple:additions"/>
+AC: ſo is the Rectangular figure of the
+ſines of the difference of each containing
+ſide taken from the half ſumme, that is of
+PM and CN, to the ſquare of VQ the
+ſine of half the vertical angle SZP. The
+<figure/>
+triangles TPX and SCH are equian<g ref="char:EOLhyphen"/>gled,
+becauſe of their equal angles at P and
+C, at T and H, the angles TPX and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>CH
+are equal, becauſe of there parallel ſides
+TP and SC, PH and CH, and the angles
+PTX and SHC are equal, becauſe the
+arches PGX and BPH are equal, and
+the double meaſure of thoſe angles, that the
+arches PCX and BP<gap reason="illegible" resp="#TECH" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> are equal, may
+thus be proved. PB and PH are equal by
+conſtruction, PC and HX are equal, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="238" facs="tcp:60119:128"/>
+of the parallel lines PX and CH,
+and therefore CX is equal to PB, and
+CP being common to both, CB muſt
+needs be equall to PX. Now then, as
+TP, to PX; ſo is CH, to CS: and
+as PR to PM, ſo is CN to CF, and a
+line drawn from F to L, parallel to AK,
+ſhall cut the ſides AC and CK proporti<g ref="char:EOLhyphen"/>onal
+by the 15th. of the ſecond, &amp; therefore
+as CK, to CA; ſo is CF, to CL: and be<g ref="char:EOLhyphen"/>cauſe
+AV equall to AC, the Radius of a
+great circle is proportional to CK, the Ra<g ref="char:EOLhyphen"/>dius
+of a leſſer; therefore, as CK, to AV;
+ſo is CF, to VO. And becauſe VAQ
+and VOQ are like Triangles, by the 22
+of the ſecond; therefore, as AV, to VQ;
+ſo is VQ, to VO: and ſo the rectangle of
+AV and VO is equall to the ſquare of
+VQ; from which proportions this propo<g ref="char:EOLhyphen"/>ſition
+may be thus deduced.<table>
+                              <row>
+                                 <cell>PR</cell>
+                                 <cell rows="4">Proportional</cell>
+                                 <cell>CK</cell>
+                                 <cell rows="4">And by
+com<g ref="char:EOLunhyphen"/>poſi<g ref="char:EOLhyphen"/>tion</cell>
+                                 <cell>PR × CK</cell>
+                              </row>
+                              <row>
+                                 <cell>PM</cell>
+                                 <cell>AV</cell>
+                                 <cell>PM × VA</cell>
+                              </row>
+                              <row>
+                                 <cell>CN</cell>
+                                 <cell>CF</cell>
+                                 <cell>CN × CF</cell>
+                              </row>
+                              <row>
+                                 <cell>CF</cell>
+                                 <cell>VO</cell>
+                                 <cell>CF × VO</cell>
+                              </row>
+                           </table>
+                        </p>
                         <p>And dividing the two laſt rectangles by
 CF, the proportion will be
 <table>
@@ -8238,7 +8729,10 @@ the complement thereof to a Semicircle
 muſt be taken for the third ſide.</p>
                         <p>The angle being found, ſhall be one of
 the three ſides inquired.</p>
-                        <figure/>
+                        <p>
+                           <pb n="243" facs="tcp:60119:130"/>
+                           <figure/>
+                        </p>
                         <p>As in the Triangle ABC, the poles of
 thoſe arks L, M, K, which connected do
 make the Triangle LMK, the ſides of the
@@ -13040,7 +13534,25 @@ adde an Example.</p>
                            <p>
                               <pb n="300" facs="tcp:60119:159"/>1 <hi>Example.</hi>
                            </p>
-                           <figure/>
+                           <p>Let the horizontall diſtance from the
+pole of the plains horizontal line repreſent<g ref="char:EOLhyphen"/>ed
+in the laſt diagram by RZ the line of
+ſhadow, be 24 degrees, and let the Suns A<g ref="char:EOLhyphen"/>zimuth
+from the South be 40 deg. deſcribe
+the circle BCMP, the which ſhall repre<g ref="char:EOLhyphen"/>ſent
+the horizontal circle, and draw the di<g ref="char:EOLhyphen"/>ameter
+BAC repreſenting the horizontal
+<figure/>
+line of the plain, and the diameter MP
+repreſenting the poles of the plains hori<g ref="char:EOLhyphen"/>zontal
+line; then by a line of Chords ſet off
+your horizontal diſtance 24 degrees (found
+by obſervation in the afternoon) from P to
+<pb n="301" facs="tcp:60119:159"/>
+G, and from G to S ſet off the ſuns Aizmuth
+40 degrees, ſo ſhall the point S repreſent
+the South, N the North, E the Eaſt, and
+W the Weſt.</p>
                            <p>Now becauſe the line of ſhadow AG, fal<g ref="char:EOLhyphen"/>leth
 between P the pole of the plains hori<g ref="char:EOLhyphen"/>zontal
 line, and S the South point, there<g ref="char:EOLhyphen"/>fore
@@ -13057,7 +13569,25 @@ therefore is a South plain declining Weſt
 64 degrees.</p>
                            <p n="2">2. <hi>Example.</hi>
                            </p>
-                           <figure/>
+                           <p>Let the horizontal diſtance taken in the
+afternoon by obſervation, be 67 degrees, and
+the Suns Azimuth from the South 42 degr
+be given, then draw, as before, the Circle
+BCMP, and from P to H ſet off the hori<g ref="char:EOLhyphen"/>zontal
+diſtance 67 deg. from H to S the
+ſuns Azimuth, 42 deg. Now then, becauſe
+the South point doth fall between P the
+pole of the plains horizontal line, and H,
+<pb n="302" facs="tcp:60119:160"/>
+                              <figure/>
+the horizontal diſtance, I deduct the Suns
+Azimuth HS 42 degrees, from HP the ho<g ref="char:EOLhyphen"/>rizontal
+diſtance, and their difference is
+SP 25 degrees, the declination ſought; and
+becauſe the horizontal diſtance is greater
+than the Azimuth, therefore the declinati<g ref="char:EOLhyphen"/>on
+is contrary to the Coaſt of the Sun. This
+then is a South plain declining Eaſt 25 de<g ref="char:EOLhyphen"/>grees.</p>
                         </div>
                         <div type="section">
                            <head>To finde a Meridian line upon an
@@ -13371,7 +13901,71 @@ hour, as before; and is a general rule for
 all Latitudes whatſoever.</p>
                         <div type="projection">
                            <head>The Geometricall projection.</head>
-                           <figure/>
+                           <p>Proceed then to make the Diall, and firſt
+draw the horizontal line BA upon any part
+<figure/>
+thereof, as at A, draw two obſcure arches
+DBG and FCE; and with that line of
+Chords, with which the arches were drawn
+<pb n="313" facs="tcp:60119:165"/>
+ſet off 38 deg. 47 min. the height of the E<g ref="char:EOLhyphen"/>quator
+at <hi>London</hi> from B to D, and from C
+to E, ſet off likewiſe 51 deg. 53 min. the
+height of the Pole from B to G, and from C
+to F, and draw the ſtreight line DAE, re<g ref="char:EOLhyphen"/>preſenting
+the Equinoctial, as is manifeſt
+by the angle BAD 38 deg. 47 min. which
+the Horizon makes with the Equator: and
+the ſtreight line FAG repreſenting the Ax<g ref="char:EOLhyphen"/>is
+of the World, as is manifeſt by the angle
+FAC 51 deg. 53 min. which the Pole and
+Horizon make, and this wil be alſo the ſix
+of clock houre, or ſubſtile of this Diall, ſee<g ref="char:EOLhyphen"/>ing
+the plain it ſelfe lieth in the Meridian,
+90 deg. diſtant. And becauſe the top of
+the Stile (which may be a ſtreight pin fixed
+in the point A) doth give the ſhadow in all
+plains that are parallel to the Axis, it will
+be neceſſary to proportion the ſtile to the
+plain, that the hour lines may be enlarged
+or contracted according to the length there<g ref="char:EOLhyphen"/>of,
+the which is done in this manner. Let
+the length of the plain from A be given in
+ſome known parts, then becauſe the extream
+houre of the Eaſt Dial is 11, in the Weſt 1,
+reckoning 15 deg. to every houre from ſix,
+the arch of the Equator will be 75 deg. and
+therefore in the right angled plain triangle
+AHE, we have given the baſe AE, which
+<pb n="314" facs="tcp:60119:166"/>
+is the length of the plain from A, and the
+angle AHE 75 deg. to find the perpendi<g ref="char:EOLhyphen"/>cular
+HA, for which (by the 1 Caſe of right
+angled plain Triangles) the proportion wil
+be,
+<table>
+                                 <row>
+                                    <cell>As the Radius, 90</cell>
+                                    <cell>10.000000</cell>
+                                 </row>
+                                 <row>
+                                    <cell>To the Baſe AE, 3.48</cell>
+                                    <cell>2.541579</cell>
+                                 </row>
+                                 <row>
+                                    <cell>So the Tangent of AEH, 15</cell>
+                                    <cell>9.428052</cell>
+                                 </row>
+                                 <row>
+                                    <cell> </cell>
+                                    <cell> </cell>
+                                 </row>
+                                 <row>
+                                    <cell>To the perpendicular HA, 93</cell>
+                                    <cell>1.969631</cell>
+                                 </row>
+                              </table>
+                           </p>
                            <p>The length of the ſtile being thus propor<g ref="char:EOLhyphen"/>tioned
 to the plain, make that the Radius
 of a Circle, and then the Equator DAE
@@ -13785,7 +14379,15 @@ heighth of the ſtile found to be 34. 32.
 which being ſet from N to R, and a ſtreight
 line drawn from C through R repreſenting
 the axis, the Diall is finiſhed for uſe.</p>
-                           <figure/>
+                           <p>In applying it to any wall or plane, let
+<pb facs="tcp:60119:175"/>
+                              <figure/>
+                              <pb n="323" facs="tcp:60119:175"/>
+ACB be horizontal, CO perpendicular,
+and the ſide or axis of the ſtile, CR point<g ref="char:EOLhyphen"/>ing
+downwards, erected over the ſubſtile
+line CN; ſo have you fitted a Diall for a<g ref="char:EOLhyphen"/>ny
+South plane declining Eaſt 25 degrees.</p>
                            <p>Nay, thus have you made four Dials in
 one, <hi>viz.</hi> a South declining Eaſt and Weſt
 25 degrees, and a North declining Eaſt or
@@ -13978,7 +14580,78 @@ the ſubſtile and meridian, and ſet it
 from V to T both wayes, then draw the
 ſtreight line TPT, which ſhall be the ſub<g ref="char:EOLhyphen"/>ſtile
 of this Diall.</p>
-                              <figure/>
+                              <p>This done, proportion the length of PO
+the perpendicular ſtile to what ſcantling
+you will, and from a diagonal Scale fitted
+to the Radius of your intended perpendi<g ref="char:EOLhyphen"/>cular
+ſtile, ſet off 69, the natural tangent
+of 3 degrees 97 min. the height of the ſtile
+found by calculation from P to H. Then by
+a ſcale proportional to the Radius PO, and
+at the point H draw the Equinoctial KH11,
+cutting the ſubſtile at right angles; which
+if rightly drawn, will cut the horizontal
+line at 6 of the clock, and make an angle
+of 38 deg. 30 min. with the horizon, equal
+to the diſtance of the ſubſtile from the Me<g ref="char:EOLhyphen"/>ridian,
+<pb facs="tcp:60119:178"/>
+                                 <figure/>
+                                 <pb n="326" facs="tcp:60119:179"/>
+                                 <gap reason="duplicate" extent="1 page">
+                                    <desc>〈1 page duplicate〉</desc>
+                                 </gap>
+                                 <pb n="327" facs="tcp:60119:179"/>
+                                 <gap reason="duplicate" extent="1 page">
+                                    <desc>〈1 page duplicate〉</desc>
+                                 </gap>
+                                 <pb n="328" facs="tcp:60119:180"/>
+upon this Equinoctial line making
+HO the Radius, ſet off 364, the natural
+tangent of 20 degrees from H upwards for
+the 5 of clock hour, and 2747 the natural
+tangent of 70 degrees, from H downwards
+for the 11 of clock hour, if theſe two hour
+diſtances fit not the plane to your liking,
+make PO greater or leſſer, as you ſee cauſe,
+for according to this, the diſtance of H
+from P, (by which the Equinoctial line
+muſt be drawn) the length of HO, and the
+width of all the hour lines muſt vary pro<g ref="char:EOLhyphen"/>portionably,
+but if they fit the plane, then
+by your ſcale proportioned to the Radius
+HO, and the help of the natural tangents
+ſet the hours upon the Equinoctial, after
+this manner: In the right angled plain
+triangle HG11, having the perpendicular
+HG equal to HO given in ſome known
+parts: as ſuppoſe 206, that is 2 inches and
+6 parts of an inch, and the angle HG11,
+70 degrees, the baſe H11 may be found by
+the firſt caſe of right angled plain trian<g ref="char:EOLhyphen"/>gles:
+for,
+<table>
+                                    <row>
+                                       <cell>As the Radius 90</cell>
+                                       <cell>10.000000</cell>
+                                    </row>
+                                    <row>
+                                       <cell>Is to the perpendicular HG 206,</cell>
+                                       <cell>2.313867</cell>
+                                    </row>
+                                    <row>
+                                       <cell>So is the tangent of HG11, 70.</cell>
+                                       <cell>10.438935</cell>
+                                    </row>
+                                    <row>
+                                       <cell> </cell>
+                                       <cell> </cell>
+                                    </row>
+                                    <row>
+                                       <cell>To the baſe H11, 566.</cell>
+                                       <cell>2.752802</cell>
+                                    </row>
+                                 </table>
+                              </p>
                               <p>
                                  <pb n="329" facs="tcp:60119:180"/>
 Which is 5 inches, and 66 hundred parts
@@ -14493,7 +15166,19 @@ under the poles of the world, ſomewhat
 differing from the former.</p>
                         <div type="section">
                            <head>Of the Equinoctiall plane.</head>
-                           <figure/>
+                           <p>The firſt of theſe ſix varieties which I call
+an Equinoctial plane, is in the fundamen<g ref="char:EOLhyphen"/>tal
+Scheme, &amp; alſo in this, repreſented by
+the ſix of clock hour-circle EPW, wherein
+you may obſerve out of the Scheme it ſelf
+<figure/>
+that none of the other hour circles do cut
+the ſame, and therefore (as in the 5 Probl.)
+<pb n="342" facs="tcp:60119:187"/>
+you may conclude, that the hour-lines
+thereof have no center to meet in, but muſt
+be parallel one to another, as they were in
+the Eaſt and Weſt Dialls.</p>
                            <p>And becauſe this Diall is no other but
 the very horizontall of a right Sphere,
 where the Equinoctial is Zenith, and the
@@ -15633,7 +16318,33 @@ that the manner of making the Dials for
 both may be ſhewed at once: Let the exam<g ref="char:EOLhyphen"/>ple
 therefore be a Diall for a South plane
 declining Eaſt 30 deg. reclining 20 deg.</p>
-                           <figure/>
+                           <p>Firſt, draw the horizontal line ACB in
+the middle of the plane, becauſe the ſtile of
+this Dial muſt looke downwards to the South
+pole, and becauſe the plane declineth Eaſt,
+therefore the morning houres muſt ſtand on
+the Weſt ſide of the Meridian, and the di<g ref="char:EOLhyphen"/>ſtance
+of the Meridian and Horizon 78 deg.
+83 min. muſt be ſet upon the circle ADBF,
+from A to E, and there draw the line CE
+for the 12 a clock houre, from E reckon
+7 deg. 51 min. the diſtance of the ſubſtile
+and Meridian Weſtwards to D, and draw
+the prickt line CD for the ſubſtile: from
+<pb n="371" facs="tcp:60119:206"/>
+the point of the ſubſtile at D, ſet off the
+houre diſtances, as of 3 deg. 66 min. for 11,
+and ſo of the reſt: unto every prick draw
+ſtreight lines from the center C, ſo have you
+<figure/>
+all the houres truly drawn. Laſt of all, ſee
+off from D the height of the ſtile DE, and
+draw the line CE for the axis, which being
+<pb n="372" facs="tcp:60119:207"/>
+erected over the ſubſtile, CD, the Diall is
+fit for uſe, but muſt be placed in its due po<g ref="char:EOLhyphen"/>ſition
+by the declination and reclination
+thereof.</p>
                            <p>And thus have you made four Dials at
 once, or at leaſt, this Dial thus drawn may
 be made to ſerve four ſorts of planes, for firſt,
@@ -16274,7 +16985,79 @@ difference of Longitude were not to exceed
 ſix degrees, then a Chart made, as this fi<g ref="char:EOLhyphen"/>gure
 is for ſuch a Voyage, may be called
 particular, and is thus to be projected.</p>
-                        <figure/>
+                        <p>Having drawn the line AB, ſerving for
+the firſt meridian, croſſe it at right angles
+with the two perpendiculars BC and AE;
+divide the line AE, or another line paral<g ref="char:EOLhyphen"/>lel
+to it into ſix equal parts, noting them
+with 1, 2, 3, 4, 5, 6; then ſub-divide each
+part or degree into 10, and if you can, each
+of thoſe into 10 more; however, we ſup<g ref="char:EOLhyphen"/>poſe
+each degree to be ſubdivided into 1000
+parts; through each of theſe degrees draw
+lines parallel to the firſt meridian AB. The
+meridians being drawn, to draw the paral<g ref="char:EOLhyphen"/>lels
+of latitude you muſt have recourſe to
+your Table of meridionall parts, in which
+finding that the diſtance between the Equa<g ref="char:EOLhyphen"/>tor
+and 50 degrees in the meridian ſhould
+be equal to 57 degr. 909 parts in the Equa<g ref="char:EOLhyphen"/>tor
+and his parallels; I may ſuppoſe the
+loweſt parallel to be 57 degrees from the E<g ref="char:EOLhyphen"/>quator.
+So the diſtance between this loweſt
+parallel and the parallel of 50 degrees will
+be 909 parts onely: wherefore I take theſe
+909 parts out of the line AE, and ſet them
+from the loweſt parallel upwards, and draw
+the line AE, which ſhall repreſent the pa<g ref="char:EOLhyphen"/>rallel
+of 50 degrees. In like manner, I
+<pb n="382" facs="tcp:60119:215"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="383" facs="tcp:60119:215"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="384" facs="tcp:60119:216"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="385" facs="tcp:60119:216"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="386" facs="tcp:60119:217"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="387" facs="tcp:60119:217"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="386" facs="tcp:60119:218"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb facs="tcp:60119:218"/>
+                           <figure/>
+                           <pb facs="tcp:60119:219"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="387" facs="tcp:60119:219"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="388" facs="tcp:60119:220"/>
+finde by the Table that the diſtance between
+the Equator and 51 degrees in the meridian
+is 59 degrees, 481 parts: I abate the for<g ref="char:EOLhyphen"/>mer
+57 degrees, and there remains 2 degr.
+481 parts, to be ſet from the loweſt parallel
+upwards, by which to draw the parallel of
+51 degrees; and ſo may the other parallels
+be alſo drawn.</p>
                      </div>
                      <div n="3" type="problem">
                         <head>Probl. 3.</head>
